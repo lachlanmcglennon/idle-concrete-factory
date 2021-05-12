@@ -6,19 +6,19 @@ export default {
   target: "static",
 
   router: {
-    base: "/steam-empire/"
+    base: "/idle-concrete-factory/"
   },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: "steam-empire",
+    title: "idle-concrete-factory",
     htmlAttrs: {
       lang: "en"
     },
     meta: [
       { charset: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { hid: "description", name: "description", content: "Incremental idle game about a stemapunk civilization" }
+      { hid: "description", name: "description", content: "Incremental idle game about a CONCRETE FACTORY" }
     ],
     link: [
       { rel: "icon", type: "image/x-icon", href: "/favicon.ico" },
